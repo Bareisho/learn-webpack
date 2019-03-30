@@ -1,2 +1,2 @@
 # learn-webpack
-learn config
+learn config about webpack 4
